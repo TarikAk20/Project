@@ -1,1 +1,0 @@
-package de.freerider.restapi.dto;
